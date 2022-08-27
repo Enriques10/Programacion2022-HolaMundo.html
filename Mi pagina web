@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+    <meta  charset="utf-8">
+    <title>Hola Mundo</title>
+ <head>
+ <p>Hola soy Juan gracias por visitar mi pagina</p>
+ <body>
+   <script>alert("Bienvenido a mi pagina estimado usuario");</script>
+</body>
+</html>
